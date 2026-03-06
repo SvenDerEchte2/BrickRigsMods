@@ -1,11 +1,11 @@
-**Brick Rigs Mod Manager**
+# Brick Rigs Mod Manager
 
 Version: 1.1.0
 Author: SvenDerEchte2
 
 Ein einfacher Launcher & Mod-Manager für Brick Rigs, mit automatischen Mod-Updates und Launcher-Update-Funktion.
 
-**Features**
+## Features
 
 Mod-Verwaltung direkt im GUI
 
@@ -13,8 +13,7 @@ Automatische Updates für Mods
 
 Automatische Launcher-Updates
 
-
-**Installation**
+## Installation
 
 Lade die neueste Version des Mod Managers von GitHub Releases
 herunter.
@@ -31,13 +30,13 @@ Bei Verfügbarkeit wirst du durch ein Popup informiert.
 
 Mit Klick auf „Update“ wird der Launcher heruntergeladen, ersetzt und automatisch neu gestartet.
 
-**Hinweise**
+## Hinweise
 
 Stelle sicher, dass der Launcher Schreibrechte im Installationsordner hat.
 
 Antivirus-Programme können den automatischen Update-Prozess blockieren; ggf. Ausnahmen hinzufügen.
 
-**Lizenz / Copyright**
+## Lizenz / Copyright
 
 © 2026 SvenDerEchte2
 Alle Rechte vorbehalten.
