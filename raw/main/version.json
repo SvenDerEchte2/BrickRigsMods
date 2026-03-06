@@ -1,6 +1,6 @@
 {
   "launcher_version": "1.1.0",
-  "launcher_url": "https://github.com/SvenDerEchte2/BrickRigsMods/releases/download/v1.1.0/Launcher.exe",
+  "launcher_url": "https://github.com/SvenDerEchte2/BrickRigs-Mod-Manager/releases/download/v1.1.0/Launcher.exe",
   "mods": [
     {
       "name": "More_SirenMod",
