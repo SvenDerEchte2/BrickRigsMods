@@ -4,9 +4,9 @@
   "updater_url": "https://drive.google.com/uc?export=download&id=1-hjMKwFZ7L9TgimvOpLAp2kFNBtd96bD",
   "mods": [
     {
-      "name": "ModA",
+      "name": "More_SirenMod",
       "mod_version": "1.2",
-      "message": "Neue Features für ModA!",
+      "message": "Fügt 30+ neue Sirenen & Hörner hinzu!",
       "download_url": "https://raw.githubusercontent.com/SvenDerEchte2/BrickRigsMods/main/raw/main/Mods/Soundmods_P.pak",
       "Copyright": "SvenDerEchte2"
     }
