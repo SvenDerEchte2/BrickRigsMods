@@ -1,7 +1,7 @@
 **Brick Rigs Mod Manager**
 
 Version: 1.1.0
-Author: SvenDerEchte2 / Gerd.Rademacher
+Author: SvenDerEchte2
 
 Ein einfacher Launcher & Mod-Manager für Brick Rigs, mit automatischen Mod-Updates und Launcher-Update-Funktion.
 
@@ -11,38 +11,19 @@ Mod-Verwaltung direkt im GUI
 
 Automatische Updates für Mods
 
-Automatische Launcher-Updates mit Fortschrittsanzeige
+Automatische Launcher-Updates
 
-Einfacher Wechsel des Mod-Ordners
-
-Unterstützung für Steam- und Standalone-Versionen
 
 **Installation**
 
 Lade die neueste Version des Mod Managers von GitHub Releases
- herunter.
+herunter.
 
-Entpacke das ZIP in einen beliebigen Ordner.
+Entpacke das ZIP in deinem BrickRigs Verzeichnis (dort wo die BrickRigs.exe liegt).
 
 Starte BrickRigsModManager.exe.
 
-Beim ersten Start wirst du aufgefordert, den Brick Rigs Paks-Ordner auszuwählen.
-
-Hinweis: Für Steam-Nutzer kann der Pfad automatisch erkannt werden, wenn BrickRigs.exe übergeben wird.
-
-**Nutzung**
-
-Mods installieren / deinstallieren:
-
-Klicke auf „Installieren“ oder „Deinstallieren“ neben einem Mod.
-
-Bei Updates wird die aktuelle Version automatisch heruntergeladen.
-
-Mod-Ordner ändern:
-
-Klicke auf „Mod Ordner ändern“ im Hauptfenster und wähle einen neuen Pfad.
-
-Starte den Launcher anschließend neu.
+Beim ersten Start wirst du aufgefordert, den Brick Rigs __Paks-Ordner__ auszuwählen.
 
 Launcher-Update:
 
@@ -56,8 +37,6 @@ Stelle sicher, dass der Launcher Schreibrechte im Installationsordner hat.
 
 Antivirus-Programme können den automatischen Update-Prozess blockieren; ggf. Ausnahmen hinzufügen.
 
-Backup deiner Mods wird empfohlen, bevor du größere Updates installierst.
-
 **Lizenz / Copyright**
 
 © 2026 SvenDerEchte2
@@ -66,9 +45,3 @@ Alle Rechte vorbehalten.
 Mods: Die Rechte liegen bei den jeweiligen Autoren.
 
 Launcher / Mod Manager: Eigenentwicklung, Nutzung auf eigene Verantwortung.
-
-**Support / Kontakt**
-
-GitHub: https://github.com/SvenDerEchte2/BrickRigsMods
-
-Issues: Für Fehlerberichte oder Feature-Anfragen auf GitHub öffnen.
